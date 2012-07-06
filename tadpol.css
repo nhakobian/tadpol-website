@@ -10,7 +10,6 @@ html, body {
 
 #page-container {
     position : relative;
-    /*display : block;*/
     width : 85%;
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -18,7 +17,6 @@ html, body {
     background : white;
     padding : 0;
     margin : 0 auto;
-    /*min-height : 10em;*/
 }
 
 #header {
@@ -45,6 +43,26 @@ html, body {
     background : lightgreen;
     border-bottom : 1px solid black;
 }
+
+#menu ul {
+    display: block;
+    margin : 0;
+    padding : 0;
+    line-height : 2em;
+    text-align : center;
+}
+
+#menu li {
+    display : inline-block;
+    margin : 0;
+    padding : 0 0.5em;
+    list-style: none;
+}
+
+#menu a:link { text-decoration : none; color : darkred; font-weight : bold; }
+#menu a:visited { text-decoration : none; color : darkred; font-weight : bold; }
+#menu a:hover { text-decoration : underline; color : darkred; }
+#menu a:active { color : darkred; }
 
 #content {
     min-height : 10em;
