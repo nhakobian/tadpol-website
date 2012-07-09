@@ -1,7 +1,6 @@
 <?php
 require 'inc/head_foot.inc';
 
-$title = "Test";
 phead();
 ?>
 
@@ -26,5 +25,42 @@ phead();
 </p>
 
 <div class="clear"></div>
+<br>
+
+<div class="left" style="height:100px;">
+  <img src='static/carma_logo.png'></img>
+</div>
+
+<div class="left" style="width:100px;height:100px;">
+  <img src='static/ucb_logo.png'></img>
+</div>
+
+<div class="left" style="width:100px;height:100px;">
+  <img src='static/caltech_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/illinois_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/uchicago_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/manitoba_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/uwo_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/uarizona_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/herzberg_logo.png'></img>
+</div>
 
 <?php pfoot();?>

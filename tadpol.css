@@ -105,3 +105,68 @@ html, body {
     float : right;
     padding : 0em 0em 0em 1em;
 }
+
+.left {
+    float : left;
+    padding : 0 1em 0 0;
+}
+
+table {
+    border : 1px solid black;
+    border-collapse : collapse;
+    font-size : 12px;
+    hyphens : none;
+    -moz-hyphens : none;
+    -webkit-hyphens : none;
+    margin : 0 auto;
+}
+
+tr:nth-child(2n+1) {
+    background: none repeat scroll 0 0 lightgray;
+}
+
+tr:nth-child(2n) {
+    background: none repeat scroll 0 0 lightblue;
+}
+
+tr.trow:hover {
+    background: none repeat scroll 0 0 burlywood;
+}
+
+tr.thead {
+    background : orange;
+    font-weight : bold;
+    text-align : center;
+}
+
+
+tr.trow {
+    border-top : 1px solid black;
+}
+
+td.email1 {
+    text-align : right;
+    padding-left : 1em;
+}
+
+td.email2 {
+    padding-right : 1em;
+}
+
+td.emailat {
+    text-align : center;
+    font-weight : bold;
+}
+
+td.inst {
+    text-align : center;
+    padding-left : 1em;
+    padding-right : 1em;
+    border-right : 1px solid black;
+    border-left : 1px solid black;
+}
+
+td.name { 
+    text-align : center; 
+    padding : 0 1em;
+}

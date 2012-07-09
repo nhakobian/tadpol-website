@@ -18,6 +18,7 @@ function phead() {
 <html lang="en">
 <head>
   <title><?=$title?></title>
+  <base href="/tadpol/" />
   <link rel="stylesheet" href="tadpol.css" type="text/css" />
 </head>
 <body>
