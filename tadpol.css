@@ -175,3 +175,13 @@ td.name {
     padding-bottom : 1em;
     padding-right : 1em;
 }
+
+.logo {
+    width : 100%;
+    text-align : center;
+}
+
+.logo img {
+    height : 50px;	
+    padding : 0 0.25em;
+}
