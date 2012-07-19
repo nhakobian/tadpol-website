@@ -67,4 +67,12 @@ phead();
   <img src='static/herzberg_logo.png'></img>
 </div>
 
+<div class="left" style="height:100px;">
+  <img src='static/usra_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
+  <img src='static/nasa_logo.png'></img>
+</div>
+
 <?php pfoot();?>
