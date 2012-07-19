@@ -170,3 +170,8 @@ td.name {
     text-align : center; 
     padding : 0 1em;
 }
+
+.pres ul {
+    padding-bottom : 1em;
+    padding-right : 1em;
+}

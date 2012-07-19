@@ -33,7 +33,7 @@ function phead() {
       <li><a href="">Home</a></li>
       <li><a href="people.php">People</a></li>
       <li><a href="papers.php">Papers</a></li>
-      <li><a href="talks.php">Talks</a></li>
+      <li><a href="presentations.php">Presentations</a></li>
       <li><a href="data.php">Data</a></li>
       <li><a href="http://carma.astro.umd.edu/wiki/index.php/TADPOL">Internal</a></li>   
     </ul>
