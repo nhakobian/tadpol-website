@@ -44,6 +44,10 @@ phead();
 </div>
 
 <div class="left" style="height:100px;">
+  <img src='static/umd_logo.png'></img>
+</div>
+
+<div class="left" style="height:100px;">
   <img src='static/uchicago_logo.png'></img>
 </div>
 
