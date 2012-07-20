@@ -37,7 +37,7 @@ phead();
     <ul>
       <li>
         <b>Dick Plambeck</b>, <i>"Measuring Polarization with CARMA"</i> (talk)
-        [<a href="static/presentations/plambeck_2012_polarization.pdf">pdf</a>]
+        [<a href="static/presentations/008_plambeck_ss_talk.pdf">pdf</a>]
       </li>
     </ul>
   </li>
@@ -48,6 +48,7 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"Polarization in Forming Stars: Probing Small 
         Scales with CARMA"</i> (talk, May 23, 2012)
+        [<a href="static/presentations/007_hull_sofia_colloquium.pdf">pdf</a>]
       </li>
       <li>
         <b>Leslie Looney</b>, <i>"The Structure of Class 0 Protostars: 
@@ -81,6 +82,7 @@ phead();
     <ul>
       <li>
         <b>Chat Hull</b>, <i>"Polarization in Forming Stars"</i> (talk)
+        [<a href="static/presentations/003_hull_madison_talk.pdf">pdf</a>]
       </li>
     </ul>
   </li>
@@ -91,7 +93,8 @@ phead();
     <ul>
       <li>
         <b>Chat Hull</b>, <i>"Are outflows aligned with magnetic fields in 
-        forming stars?</i>" (poster)
+        forming stars?</i>" (poster) 
+        [<a href="static/presentations/001_hull_jets_poster.pdf">pdf</a>]
       </li>
       <li>
         <b>Leslie Looney</b>, <i>"Results from SMA, CARMA, Herschel, and ALMA 
