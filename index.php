@@ -4,11 +4,9 @@ require 'inc/head_foot.inc';
 phead();
 ?>
 
-<div class="right" style="width:425px;height:359px;">
-  <img src='static/tadpol.jpg'></img>
-</div>
+<h2 style="text-align:center;">General Information</h2>
 
-<h2>General Information</h2>
+<img src='static/L1157_slide_white_sm.png' style="float:right"></img>
 
 <p>
   The TADPOL survey uses the 1mm dual-polarization system at CARMA to
