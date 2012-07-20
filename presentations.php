@@ -20,6 +20,7 @@ phead();
       </li>
     </ul>
   </li>
+
   <li>
     MPIA Conference, <i>"The Early Phase of Star Formation,"</i>
     Ringberg Castle, Germany (July 1-6, 2012)
@@ -30,6 +31,17 @@ phead();
       <li><b>John Tobin</b>, <i>"Protostellar Envelopes"</i> (talk)</li>
     </ul>
   </li>
+
+  <li>
+    CARMA Summer School, Cedar Flat, CA (June 17-23, 2012)
+    <ul>
+      <li>
+        <b>Dick Plambeck</b>, <i>"Measuring Polarization with CARMA"</i> (talk)
+        [<a href="static/presentations/plambeck_2012_polarization.pdf">pdf</a>]
+      </li>
+    </ul>
+  </li>
+
   <li>
     SOFIA Science Center colloquium, NASA Ames, Mountain View, CA
     <ul>
@@ -43,6 +55,7 @@ phead();
       </li>
     </ul>
   </li>
+
   <li>
     <i>"Revealing Evolution of Protoplanetary Disks in the ALMA Era,"</i>
     Kyoto, Japan (May 8-11, 2012)
@@ -53,6 +66,7 @@ phead();
       </li>
     </ul>
   </li>
+
   <li>
     Visit to University of Manitoba, Winnipeg, MB, Canada (April 6, 2012)
     <ul>
@@ -61,6 +75,7 @@ phead();
       </li>
     </ul>
   </li>
+
   <li>
     <i>"Midwest Magnetic Fields"</i> Workshop, Madison, WI (April 4, 2012)
     <ul>
@@ -69,6 +84,7 @@ phead();
       </li>
     </ul>
   </li>
+
   <li>
     NRAO-NAASC Workshop <i>"Outflows, Winds, and Jets,"</i>
     Charlottesville, VA (March 3-6, 2012)

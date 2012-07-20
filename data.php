@@ -1,11 +1,11 @@
 <?php
 require 'inc/head_foot.inc';
 
-$title = "Test";
+$title = "Data";
 phead();
 ?>
 
-Data release TBD.
+Public data release forthcoming.
 
 <div class="clear"></div>
 

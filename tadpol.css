@@ -59,10 +59,10 @@ html, body {
     list-style: none;
 }
 
-#menu a:link { text-decoration : none; color : darkred; font-weight : bold; }
-#menu a:visited { text-decoration : none; color : darkred; font-weight : bold; }
-#menu a:hover { text-decoration : underline; color : darkred; }
-#menu a:active { color : darkred; }
+a:link { text-decoration : none; color : darkred; font-weight : bold; }
+a:visited { text-decoration : none; color : darkred; font-weight : bold; }
+a:hover { text-decoration : underline; color : darkred; }
+a:active { color : darkred; }
 
 #content {
     min-height : 10em;
