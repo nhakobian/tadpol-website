@@ -23,7 +23,7 @@ $people = array(
 	    array('James Lamb', 'Caltech', 'lamb@ovro.caltech.edu'),
 	    array('Leslie Looney', 'University of Illinois', 'lwl@illinois.edu'),
 	    array('Dan Marrone', 'University of Arizona', 'dmarrone@email.arizona.edu'),
-	    array('Brenda Matthews', 'Herzberg Institute of Astrophysics', 
+	    array('Brenda Matthews', 'National Research Council of Canada', 
 		  'Brenda.Matthews@nrc-cnrc.gc.ca'),
 	    array('Lee Mundy', 'University of Maryland', 'lgm@astro.umd.edu'),
 	    array('Thushara Pillai', 'Caltech', 'tpillai@astro.caltech.edu'),
