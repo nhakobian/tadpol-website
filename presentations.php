@@ -64,6 +64,7 @@ phead();
       <li>
         <b>Meredith Hughes</b>, <i>"Dynamics of protoplanetary and debris 
         disks: turbulence, magnetic fields, and clumps"</i> (talk)
+        [<a href="static/presentations/hughes_kyoto_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>

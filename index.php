@@ -18,7 +18,7 @@ phead();
   includes members from all CARMA institutions (Berkeley, Caltech,
   Illinois, Maryland, and Chicago), as well as the University of
   Manitoba, the University of Western Ontario, the University of
-  Arizona, the Herzberg Institute of Astrophysics, and the SOFIA
+  Arizona, the National Research Council of Canada, and the SOFIA
   Science Center.
 </p>
 
