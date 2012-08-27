@@ -17,6 +17,7 @@ phead();
       <li>
         <b>Ian Stephens</b>,<i>"The magnetic field morphology of the Class 0 
                                  protostar L1157"</i> (poster)
+        [<a href="static/presentations/stephens_iau_poster.pdf">pdf</a>]
       </li>
     </ul>
   </li>
