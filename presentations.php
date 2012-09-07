@@ -9,6 +9,17 @@ phead();
 
 <ul class="pres">
   <li>
+    <i>"Star Formation & the Interstellar Medium: Thrity-five Years Later"</i>,
+    Berkeley, CA (September 10-12, 2012)
+    <ul>
+      <li>
+        <b>Chat Hull</b>,<i>"Polarization in Forming Stars,"</i> (poster)
+        [<a href="static/presentations/012_hull_mckee_SF_poster.pdf">pdf</a>]
+      </li>
+    </ul>
+  </li>
+
+  <li>
     XXVIII IAU General Assembly, Special Session 4, 
     <i>"New era for studying interstellar and intergalactic magnetic 
          fields,"</i> 
