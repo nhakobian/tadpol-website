@@ -5,7 +5,7 @@ $title = "People";
 phead();
 
 $people = array(
-		array('Chat Hull', 'UC Berkeley', 'chat@astro.berkeley.edu', 'http://astro.berkeley.edu/~chat/'),
+		array('Chat Hull (PI)', 'UC Berkeley', 'chat@astro.berkeley.edu', 'http://astro.berkeley.edu/~chat/'),
 		array('Dick Plambeck', 'UC Berkeley', 'plambeck@astro.berkeley.edu', 'http://astro.berkeley.edu/~plambeck/'),
 		array('Alberto Bolatto', 'University of Maryland', 'bolatto@astro.umd.edu', 'http://www.astro.umd.edu/people/bolatto.html'),
 		array('Geoff Bower', 'UC Berkeley', 'gbower@astro.berkeley.edu', 'http://astro.berkeley.edu/~gbower/'),
