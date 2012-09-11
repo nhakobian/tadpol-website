@@ -40,7 +40,10 @@ phead();
       <li><b>Leslie Looney</b>, <i>"Changing the Paradigm for the Inner 
           Envelope of Class 0 Protostars"</i> (talk)
       </li>
-      <li><b>John Tobin</b>, <i>"Protostellar Envelopes"</i> (talk)</li>
+      <li>
+        <b>John Tobin</b>, <i>"Protostellar Envelopes"</i> (talk)
+        [<a href="static/presentations/009_tobin_epos_talk.ppt">ppt</a>]
+      </li>
     </ul>
   </li>
 
