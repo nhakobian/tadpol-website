@@ -15,7 +15,6 @@ $people = array(
 		array('Erica Franzmann', 'University of Manitoba', 'umfranze@cc.umanitoba.ca', ''),
 		array('Nicholas Hakobian', 'University of Illinois', 'nhakobi2@illinois.edu', 'http://www.astro.uiuc.edu/people/nhakobi2'),
 		array('Carl Heiles', 'UC Berkeley', 'heiles@astro.berkeley.edu', 'http://astro.berkeley.edu/~heiles/'),
-		array('Roger Hildebrand', 'University of Chicago', 'roger@oddjob.uchicago.edu', 'http://astro.uchicago.edu/people/roger-h-hildebrand.shtml'),
 		array('Martin Houde', 'University of Western Ontario', 'mhoude2@uwo.ca', 'http://www.astro.uwo.ca/~houde/'),
 		array('Meredith Hughes', 'UC Berkeley', 'mhughes@astro.berkeley.edu', 'http://astro.berkeley.edu/~mhughes/Home.html'),
 		array('Katherine Jameson', 'University of Maryland', 'kjameson@astro.umd.edu', 'http://www.astro.umd.edu/people/kjameson.html'),
