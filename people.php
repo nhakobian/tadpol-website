@@ -29,7 +29,7 @@ $people = array(
 		array('Marc Pound', 'University of Maryland',  'mpound@astro.umd.edu', 'http://www.astro.umd.edu/people/mpound.html'),
 		array('Ian Stephens', 'University of Illinois', 'stephen6@illinois.edu', 'http://www.astro.uiuc.edu/people/stephen6'),
 		array('John Vaillancourt', 'SOFIA Science Center', 'jvaillancourt@sofia.usra.edu', 'http://www.sofia.usra.edu/Science/team/jvaillancourt.html'),
-		array('Nikolaus Volgenau', 'Caltech', 'volgenau@ovro.caltech.edu', ''),
+		array('Nikolaus Volgenau', 'CARMA', 'volgenau@ovro.caltech.edu', ''),
 		array('Melvyn Wright', 'UC Berkeley', 'wright@astro.berkeley.edu', 'http://astro.berkeley.edu/~wright/'),
 		);
 ?>
