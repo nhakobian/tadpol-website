@@ -17,8 +17,8 @@ function phead() {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title><?=$title?></title>
-  <base href="/tadpol/" />
+  <title><?php echo $title ?></title>
+  <base href="/" />
   <link rel="stylesheet" href="tadpol.css" type="text/css" />
 </head>
 <body>
