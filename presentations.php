@@ -9,7 +9,29 @@ phead();
 
 <ul class="pres">
   <li>
-    <i>"Star Formation & the Interstellar Medium: Thrity-five Years Later"</i>,
+    University of Pittsburgh AstroCoffee talk, Pittsburgh, PA (November 12, 2012)
+    <ul>
+      <li>
+        <b>Chat Hull</b>,<i>"Polarization in Forming Stars: Probing Small
+        Scales with CARMA"</i> (talk)
+        [<a href="static/presentations/013_hull_nrao_pitt_talk.pptx">pptx</a>]
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    NRAO/UVa TUNA talk, Charlottesville, VA (November 6, 2012)
+    <ul>
+      <li>
+        <b>Chat Hull</b>,<i>"Polarization in Forming Stars: Probing Small
+        Scales with CARMA"</i> (talk)
+        [<a href="static/presentations/013_hull_nrao_pitt_talk.pptx">pptx</a>]
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <i>"Star Formation & the Interstellar Medium: Thirty-five Years Later"</i>,
     Berkeley, CA (September 10-12, 2012)
     <ul>
       <li>
@@ -25,6 +47,10 @@ phead();
          fields,"</i> 
     Beijing, China (August 20-23, 2012)
     <ul>
+      <li>
+        <b>Martin Houde</b>,<i>"Observational Characterization of Magnetized
+        Turbulence in Molecular Clouds"</i> (invited review)
+      </li>
       <li>
         <b>Ian Stephens</b>,<i>"The magnetic field morphology of the Class 0 
                                  protostar L1157"</i> (poster)
