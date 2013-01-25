@@ -9,7 +9,7 @@ phead();
 <img src='static/L1157_slide_white_sm.png' style="float:right">
 
 <p>
-  The TADPOL survey uses the 1~mm dual-polarization system at CARMA to
+  The TADPOL survey uses the 1 mm dual-polarization system at CARMA to
   probe the morphology of magnetic fields in dense, star-forming
   cores.  Dust polarization maps with ~2'' angular resolution reveal
   whether the fields on scales of 0.005 pc are aligned with
