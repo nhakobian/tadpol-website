@@ -9,28 +9,10 @@ phead();
 
 <ul class="pres">
   <li>
-    <i>Magnetic Fields in the Universe IV</i>, Playa del Carmen, Mexico
+    UC Berkeley Planet and Star Formation Seminar, Berkeley, CA
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk) scheduled
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    SETI Institute, Mountain View, CA (invited colloquium)
-    <ul>
-      <li>
-        <b>Chat Hull</b>, (talk) scheduled
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    UC Berkeley Radio Astronomy Laboratory Seminar, Berkeley, CA 
-    <ul>
-      <li>
-        <b>Chat Hull</b>, (talk) scheduled
+        <b>Chat Hull</b>, (talk, scheduled for May 1, 2013)
       </li>
     </ul>
   </li>
@@ -39,16 +21,34 @@ phead();
     ALMA/NAASC mtg.: <i>From Dust to Rocks to Planets</i>, Kona, HI
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk) scheduled
+        <b>Chat Hull</b>, (talk, scheduled for week of April 8, 2013)
       </li>
     </ul>
   </li>
 
   <li>
-    UC Berkeley Planet and Star Formation Seminar, Berkeley, CA
+    UC Berkeley Radio Astronomy Laboratory Seminar, Berkeley, CA 
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk) scheduled
+        <b>Chat Hull</b>, (talk, scheduled for March 11, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    SETI Institute, Mountain View, CA (invited colloquium)
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for February 26, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <i>Magnetic Fields in the Universe IV</i>, Playa del Carmen, Mexico
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for February 5, 2013)
       </li>
     </ul>
   </li>
