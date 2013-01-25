@@ -16,7 +16,7 @@ $people = array(
 		array('Nicholas Hakobian', 'University of Illinois', 'nhakobi2@illinois.edu', 'http://www.astro.uiuc.edu/people/nhakobi2'),
 		array('Carl Heiles', 'UC Berkeley', 'heiles@astro.berkeley.edu', 'http://astro.berkeley.edu/~heiles/'),
 		array('Martin Houde', 'University of Western Ontario', 'mhoude2@uwo.ca', 'http://www.astro.uwo.ca/~houde/'),
-		array('Meredith Hughes', 'UC Berkeley', 'mhughes@astro.berkeley.edu', 'http://astro.berkeley.edu/~mhughes/Home.html'),
+		array('Meredith Hughes', 'Wesleyan', 'mhughes@astro.berkeley.edu', 'http://astro.berkeley.edu/~mhughes/Home.html'),
 		array('Katherine Jameson', 'University of Maryland', 'kjameson@astro.umd.edu', 'http://www.astro.umd.edu/people/kjameson.html'),
 		array('Woojin Kwon', 'University of Illinois', 'wkwon@illinois.edu', 'http://haneul.astro.illinois.edu/~wkwon/'),
 		array('James Lamb', 'Caltech', 'lamb@ovro.caltech.edu', 'http://www.ovro.caltech.edu/~lamb/'),
