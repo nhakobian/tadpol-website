@@ -176,6 +176,14 @@ td.name {
     padding-right : 1em;
 }
 
+ul.papers {
+    padding-right : 1em;
+}
+
+ul.papers li {
+    padding-bottom : 1em;
+}
+
 .logo {
     width : 100%;
     text-align : center;
