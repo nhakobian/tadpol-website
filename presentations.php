@@ -9,6 +9,15 @@ phead();
 
 <ul class="pres">
   <li>
+    Cornell Galaxy Lunch talk, Ithaca, NY
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for May 10, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
     UC Berkeley Planet and Star Formation Seminar, Berkeley, CA
     <ul>
       <li>
@@ -21,7 +30,17 @@ phead();
     ALMA/NAASC mtg.: <i>From Dust to Rocks to Planets</i>, Kona, HI
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for week of April 8, 2013)
+        <b>Chat Hull</b>, (talk, scheduled for April 10, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    University of Hawaii IfA lunch talk, Honolulu, HI 
+    <ul>
+      <li>
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk, scheduled for April 4, 2013)
       </li>
     </ul>
   </li>
@@ -30,25 +49,31 @@ phead();
     UC Berkeley Radio Astronomy Laboratory Seminar, Berkeley, CA 
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for March 11, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk, scheduled for March 11, 2013)
       </li>
     </ul>
   </li>
 
   <li>
-    SETI Institute, Mountain View, CA (invited colloquium)
+    SETI Institute colloquium series, Mountain View, CA (February 26, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for February 26, 2013)
+        <b>Chat Hull</b>, <i>"Star Formation through Radio Eyes: Probing 
+        Magnetic Fields with CARMA"</i> (talk)
+        [<a href="static/presentations/016_hull_seti_colloquium.pptx">pptx</a>]
       </li>
     </ul>
   </li>
 
   <li>
     <i>Magnetic Fields in the Universe IV</i>, Playa del Carmen, Mexico
+	(February 5, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for February 5, 2013)
+        <b>Chat Hull</b>,<i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/015_hull_MFUIV_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -58,7 +83,9 @@ phead();
     (January 10, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk)
+        <b>Chat Hull</b>,<i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/014_hull_aas_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -109,7 +136,7 @@ phead();
       <li>
         <b>Ian Stephens</b>,<i>"The magnetic field morphology of the Class 0 
                                  protostar L1157"</i> (poster)
-        [<a href="static/presentations/stephens_iau_poster.pdf">pdf</a>]
+        [<a href="static/presentations/011_stephens_iau_poster.pdf">pdf</a>]
       </li>
     </ul>
   </li>
@@ -160,7 +187,7 @@ phead();
       <li>
         <b>Meredith Hughes</b>, <i>"Dynamics of protoplanetary and debris 
         disks: turbulence, magnetic fields, and clumps"</i> (talk)
-        [<a href="static/presentations/hughes_kyoto_talk.pptx">pptx</a>]
+        [<a href="static/presentations/005_hughes_kyoto_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
