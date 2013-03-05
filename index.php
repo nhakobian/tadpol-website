@@ -38,6 +38,7 @@ phead();
   <img src='static/usra_logo.png'>
   <img src='static/nasa_logo.png'>
   <img src='static/wesleyan_logo.jpg'>
+  <img src='static/nrao_logo.png'>
 </div>
 
 <?php pfoot();?>

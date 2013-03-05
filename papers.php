@@ -7,7 +7,7 @@ phead();
 
 <h2 style="text-align:center;">Papers</h2>
 
-<ul>
+<ul class="papers">
   <li>
     Hull, C. L. H., Plambeck, R. L., et al., <i> Misalignment of Magnetic 
     Fields and Outflows in Protostellar Cores</i>, 2013, ApJ, (submitted)
