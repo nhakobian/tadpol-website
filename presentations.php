@@ -62,6 +62,7 @@ phead();
         <b>Chat Hull</b>, <i>"Star Formation through Radio Eyes: Probing 
         Magnetic Fields with CARMA"</i> (talk)
         [<a href="static/presentations/016_hull_seti_colloquium.pptx">pptx</a>]
+        [<a href="http://tinyurl.com/chat-seti">YouTube Link</a>]
       </li>
     </ul>
   </li>
