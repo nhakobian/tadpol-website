@@ -48,7 +48,7 @@ function pfoot() {
   </div>
 
   <div id="footer">
-    &copy; 2012 CARMA Tadpol Consortium. All rights reserved.
+    &copy; 2013 CARMA TADPOL Consortium. All rights reserved.
   </div>
 </div>
 </body>
