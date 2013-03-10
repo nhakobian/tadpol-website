@@ -18,7 +18,7 @@ phead();
   </li>
 
   <li>
-    UC Berkeley Planet and Star Formation Seminar, Berkeley, CA
+    UC Berkeley Radio Astronomy Laboratory/Planet & Star Formation Seminar, Berkeley, CA
     <ul>
       <li>
         <b>Chat Hull</b>, (talk, scheduled for May 1, 2013)
@@ -41,16 +41,6 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
         Protostellar Cores?"</i> (talk, scheduled for April 4, 2013)
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    UC Berkeley Radio Astronomy Laboratory Seminar, Berkeley, CA 
-    <ul>
-      <li>
-        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
-        Protostellar Cores?"</i> (talk, scheduled for March 11, 2013)
       </li>
     </ul>
   </li>
