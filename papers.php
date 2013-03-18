@@ -26,9 +26,8 @@ phead();
   </li>
 
   <li>
-    Stephens, I., Looney, L., Kwon, W., Hull, C. L. H., Plambeck, R., Chapman, N., 
-    Novak, G., Matthews, T., Vaillancourt, J., Shinnaga, H., Davidson, J., and
-    Crutcher, R., 
+    Stephens, I., Looney, L., Kwon, W., Hull, C. L. H., Plambeck, R., Crutcher, R. M., 
+    Chapman, N., Novak, G., Davidson, J., Vaillancourt, J., Shinnaga, H., Matthews, T.,
     <i>The Magnetic Field Morphology of the Class 0 Protostar L1157</i>, 2013,
     ApJL, submitted
   </li>
