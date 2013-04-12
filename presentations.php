@@ -9,6 +9,24 @@ phead();
 
 <ul class="pres">
   <li>
+    Instituto de Astronomía (IA) colloquium, UNAM, Mexico City, Distrito Federal, Mexico
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for September 11, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+	Centro de Radioastronomía y Astrofísica (CRyA) colloquium, UNAM, Morelia, Michoacán, Mexico    
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for September 5, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
     Cornell Galaxy Lunch talk, Ithaca, NY
     <ul>
       <li>
@@ -27,20 +45,20 @@ phead();
   </li>
 
   <li>
-    ALMA/NAASC mtg.: <i>From Dust to Rocks to Planets</i>, Kona, HI
+    ALMA/NAASC mtg.: <i>From Dust to Rocks to Planets</i>, Kona, HI (April 10, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for April 10, 2013)
+        <b>Chat Hull</b>, (talk)
       </li>
     </ul>
   </li>
 
   <li>
-    University of Hawaii IfA lunch talk, Honolulu, HI 
+    University of Hawaii IfA lunch talk, Honolulu, HI (April 4, 2013)
     <ul>
       <li>
         <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
-        Protostellar Cores?"</i> (talk, scheduled for April 4, 2013)
+        Protostellar Cores?"</i> (talk) 
       </li>
     </ul>
   </li>
