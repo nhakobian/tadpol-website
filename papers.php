@@ -10,7 +10,7 @@ phead();
 <ul class="papers">
   <li>
     Hull, C. L. H., Plambeck, R. L., et al., <i> Misalignment of Magnetic 
-    Fields and Outflows in Protostellar Cores,</i> 2013, ApJ, accepted
+    Fields and Outflows in Protostellar Cores,</i> 2013, ApJ, 768, 159
 	[<a href="http://adsabs.harvard.edu/abs/2012arXiv1212.0540H">ADS</a>]
   </li>
 
@@ -30,7 +30,7 @@ phead();
   <li>
     Stephens, I., Looney, L., Kwon, W., Hull, C. L. H., Plambeck, R., Crutcher, R. M., 
     Chapman, N., Novak, G., Davidson, J., Vaillancourt, J., Shinnaga, H., Matthews, T.,
-    <i>The Magnetic Field Morphology of the Class 0 Protostar L1157,</i> 2013, ApJL, submitted
+    <i>The Magnetic Field Morphology of the Class 0 Protostar L1157,</i> 2013, ApJL, accepted
   </li>
 
   <li>
