@@ -9,7 +9,70 @@ phead();
 
 <ul class="pres">
   <li>
-    Instituto de Astronomía (IA) colloquium, UNAM, Mexico City, Distrito Federal, Mexico
+	University of Toronto G2000 seminar, Toronto, ON, Canada
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 20, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	Caltech Astronomy Tea Talk, Pasadena, CA
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 11, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	NRAO lunch talk, Socorro, NM
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 6, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	Princeton Wunch talk, Princeton, NJ
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for October 23, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	American Museum of Natural History astrophysics seminar, New York, NY
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for October 22, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	Harvard RG lunch talk, Cambridge, MA
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for October 18, 2013)
+      </li>
+    </ul>
+  </li>	
+	
+  <li>
+    UT Austin Planets/Life/ISM seminar, Austin, TX
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for September 13, 2013)
+      </li>
+    </ul>
+  </li>	
+	
+  <li>
+    Instituto de Astronom&iacutea (IA) colloquium, UNAM, Mexico City, Distrito Federal, Mexico
     <ul>
       <li>
         <b>Chat Hull</b>, (talk, scheduled for September 11, 2013)
@@ -18,7 +81,7 @@ phead();
   </li>
 
   <li>
-	Centro de Radioastronomía y Astrofísica (CRyA) colloquium, UNAM, Morelia, Michoacán, Mexico    
+	Centro de Radioastronom&iacutea y Astrof&iacutesica (CRyA) colloquium, UNAM, Morelia, Michoac&aacuten, Mexico    
 	<ul>
       <li>
         <b>Chat Hull</b>, (talk, scheduled for September 5, 2013)
@@ -36,10 +99,21 @@ phead();
   </li>
 
   <li>
-    UC Berkeley Radio Astronomy Laboratory/Planet & Star Formation Seminar, Berkeley, CA
+    UC Berkeley Astronomy Dept. Lunch Talks, Berkeley, CA (April 25, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for May 1, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    UC Berkeley Radio Astronomy Laboratory/Planet & Star Formation Seminar, Berkeley, CA (April 24, 2013)
+    <ul>
+      <li>
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
       </li>
     </ul>
   </li>
@@ -48,7 +122,8 @@ phead();
     ALMA/NAASC mtg.: <i>From Dust to Rocks to Planets</i>, Kona, HI (April 10, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk)
+        <b>Chat Hull</b>, <i>"Polarization Science with CARMA: Probing Small-scale Magnetic 
+        Fields in Star-forming Regions"</i> (talk)
       </li>
     </ul>
   </li>
@@ -120,6 +195,19 @@ phead();
       </li>
     </ul>
   </li>
+
+  <li>
+	UC Berkeley Graduate-Student/Postdoc Seminar, Berkeley, CA (November 2, 2012)
+	<ul>
+      <li>
+        <b>Chat Hull</b>,<i>"Polarization in Forming Stars: Probing Small
+        Scales with CARMA"</i> (talk)
+      </li>
+    </ul>
+  </li>
+
+
+
 
   <li>
     <i>"Star Formation & the Interstellar Medium: Thirty-five Years Later"</i>,
