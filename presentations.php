@@ -104,6 +104,7 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
         Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/020_hull_ucb_lunch_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -114,6 +115,7 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
 		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/019_hull_RAL_PSF_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -124,6 +126,7 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"Polarization Science with CARMA: Probing Small-scale Magnetic 
         Fields in Star-forming Regions"</i> (talk)
+        [<a href="static/presentations/018_hull_ALMA_rocks_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -134,6 +137,7 @@ phead();
       <li>
         <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
         Protostellar Cores?"</i> (talk) 
+        [<a href="static/presentations/017_hull_IfA_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
@@ -200,14 +204,12 @@ phead();
 	UC Berkeley Graduate-Student/Postdoc Seminar, Berkeley, CA (November 2, 2012)
 	<ul>
       <li>
-        <b>Chat Hull</b>,<i>"Polarization in Forming Stars: Probing Small
-        Scales with CARMA"</i> (talk)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/012b_hull_gsps_talk.pptx">pptx</a>]
       </li>
     </ul>
   </li>
-
-
-
 
   <li>
     <i>"Star Formation & the Interstellar Medium: Thirty-five Years Later"</i>,
@@ -285,15 +287,6 @@ phead();
         <b>Meredith Hughes</b>, <i>"Dynamics of protoplanetary and debris 
         disks: turbulence, magnetic fields, and clumps"</i> (talk)
         [<a href="static/presentations/005_hughes_kyoto_talk.pptx">pptx</a>]
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    Visit to University of Manitoba, Winnipeg, MB, Canada (April 6, 2012)
-    <ul>
-      <li>
-        <b>Chat Hull</b>, Informal visit and discussion
       </li>
     </ul>
   </li>
