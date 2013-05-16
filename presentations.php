@@ -90,10 +90,12 @@ phead();
   </li>
 
   <li>
-    Cornell Galaxy Lunch talk, Ithaca, NY
+    Cornell Galaxy Lunch talk, Ithaca, NY (May 10, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for May 10, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/021_hull_cornell_galaxy_lunch.pptx">pptx</a>]
       </li>
     </ul>
   </li>
