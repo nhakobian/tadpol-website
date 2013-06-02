@@ -90,6 +90,30 @@ phead();
   </li>
 
   <li>
+	University of Illinois Urbana-Champaign, Urbana, IL
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for July 10, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <i>"Magnetic Fields from Cloud Cores to Protostellar Disks,"</i> 
+    MPIA, Heidelberg, Germany (May 21-24, 2013)
+    <ul>
+      <li>
+        <b>Meredith Hughes</b>,<i>"What Millimeter Polarimetry Can Tell Us about Magnetic 
+		    Fields in Circumstellar Disks"</i> (talk)
+      </li>
+      <li>
+        <b>Martin Houde</b>,<i>"Characterizing Magnetized Turbulence with Polarization 
+		  Maps"</i> (talk)
+      </li>
+    </ul>
+  </li>
+
+  <li>
     Cornell Galaxy Lunch talk, Ithaca, NY (May 10, 2013)
     <ul>
       <li>
