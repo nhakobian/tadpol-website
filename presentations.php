@@ -109,6 +109,7 @@ phead();
       <li>
         <b>Martin Houde</b>,<i>"Characterizing Magnetized Turbulence with Polarization 
 		  Maps"</i> (talk)
+	[<a href="static/presentations/022_houde_mpia_talk.pdf">pdf</a>]
       </li>
     </ul>
   </li>
