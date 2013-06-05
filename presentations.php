@@ -105,6 +105,7 @@ phead();
       <li>
         <b>Meredith Hughes</b>,<i>"What Millimeter Polarimetry Can Tell Us about Magnetic 
 		    Fields in Circumstellar Disks"</i> (talk)
+	[<a href="static/presentations/023_hughes_mpia_talk.pptx">pptx</a>]
       </li>
       <li>
         <b>Martin Houde</b>,<i>"Characterizing Magnetized Turbulence with Polarization 
