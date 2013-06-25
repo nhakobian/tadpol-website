@@ -90,10 +90,19 @@ phead();
   </li>
 
   <li>
-	University of Illinois at Urbana-Champaign astronomy seminar, Urbana, IL
+	University of Illinois at Urbana-Champaign astronomy colloquium, Urbana, IL
 	<ul>
       <li>
         <b>Chat Hull</b>, (talk, scheduled for July 10, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+	CARMA Science Symposium, Chicago, IL
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for July 8, 2013)
       </li>
     </ul>
   </li>
