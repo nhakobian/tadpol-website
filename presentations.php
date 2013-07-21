@@ -61,6 +61,33 @@ phead();
       </li>
     </ul>
   </li>	
+
+  <li>
+	Yale Stellar Tea talk, New Haven, CT
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for October 14, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+    NRAO/University of Virginia, Charlottesville, VA
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for September 25, 2013)
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    Ford Fellows Conference, Washington, DC
+    <ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for September 28, 2013)
+      </li>
+    </ul>
+  </li>
 	
   <li>
     UT Austin Planets/Life/ISM seminar, Austin, TX
@@ -90,19 +117,24 @@ phead();
   </li>
 
   <li>
-	University of Illinois at Urbana-Champaign astronomy colloquium, Urbana, IL
+	University of Illinois at Urbana-Champaign astronomy colloquium, Urbana, IL (July 10, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for July 10, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/026_hull_UIUC_colloquium.pptx">pptx</a>]
       </li>
     </ul>
   </li>
 
   <li>
-	CARMA Science Symposium, Chicago, IL
+	CARMA Science Symposium, Chicago, IL (July 8, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for July 8, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/024_hull_carma_symposium_talk.pptx">pptx</a>],
+	(poster) [<a href="static/presentations/025_hull_tadpol_poster.pdf">pdf</a>]	
       </li>
     </ul>
   </li>
