@@ -29,16 +29,17 @@ phead();
   <img src='static/carma_logo.png'>
   <img src='static/ucb_logo.png'>
   <img src='static/caltech_logo.png'>
-  <img src='static/illinois_logo.png'>
   <img src='static/umd_logo.png'>
-  <img src='static/manitoba_logo.png'>
-  <img src='static/uwo_logo.png'>
+  <img src='static/illinois_logo.png'>
+  <img src='static/bu_logo.png'>
   <img src='static/uarizona_logo.png'>
-  <img src='static/herzberg_logo.png'>
-  <img src='static/usra_logo.png'>
-  <img src='static/nasa_logo.png'>
   <img src='static/wesleyan_logo.jpg'>
   <img src='static/nrao_logo.png'>
+  <img src='static/nasa_logo.png'>
+  <img src='static/usra_logo.png'>
+  <img src='static/uwo_logo.png'>
+  <img src='static/manitoba_logo.png'>
+  <img src='static/herzberg_logo.png'>
 </div>
 
 <?php pfoot();?>
