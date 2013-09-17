@@ -40,6 +40,7 @@ phead();
   <img src='static/uwo_logo.png'>
   <img src='static/manitoba_logo.png'>
   <img src='static/herzberg_logo.png'>
+  <img src='static/sron_logo.png'>
 </div>
 
 <?php pfoot();?>
