@@ -8,6 +8,25 @@ phead();
 <h2 style="text-align:center">Presentations</h2>
 
 <ul class="pres">
+
+  <li>
+	University of Rochester seminar, Rochester, NY
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 26, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	Rochester Institute of Technology seminar, Rochester, NY
+	<ul>
+      <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 22, 2013)
+      </li>
+    </ul>
+  </li>	
+
   <li>
 	University of Toronto G2000 seminar, Toronto, ON, Canada
 	<ul>
@@ -72,15 +91,6 @@ phead();
   </li>	
 
   <li>
-    NRAO/University of Virginia, Charlottesville, VA
-    <ul>
-      <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 25, 2013)
-      </li>
-    </ul>
-  </li>
-
-  <li>
     Ford Fellows Conference, Washington, DC
     <ul>
       <li>
@@ -88,30 +98,55 @@ phead();
       </li>
     </ul>
   </li>
-	
+
   <li>
-    UT Austin Planets/Life/ISM seminar, Austin, TX
+    NRAO/University of Virginia, Charlottesville, VA
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 13, 2013)
+        <b>Chat Hull</b>, (talk, scheduled for September 25, 2013)
+      </li>
+    </ul>
+  </li>
+	
+  <li>
+    UT Austin Planets/Life/ISM seminar, Austin, TX (September 13, 2013)
+    <ul>
+      <li>
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/030_hull_austin_seminar.pptx">pptx</a>]
       </li>
     </ul>
   </li>	
 	
   <li>
-    Instituto de Astronom&iacutea (IA) colloquium, UNAM, Mexico City, Distrito Federal, Mexico
+    Instituto de Astronom&iacutea (IA) colloquium, UNAM, Mexico City, Distrito Federal, Mexico (September 11, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 11, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/029_hull_IA_colloquium.pptx">pptx</a>]
       </li>
     </ul>
   </li>
 
   <li>
-	Centro de Radioastronom&iacutea y Astrof&iacutesica (CRyA) colloquium, UNAM, Morelia, Michoac&aacuten, Mexico    
+    Instituto de Ciencias Nucleares (ICN) seminar, UNAM, Mexico City, Distrito Federal, Mexico (September 10, 2013)
+    <ul>
+      <li>
+        <b>Chat Hull</b>, <i>"Protostellar Polarization with CARMA: Greatest Hits"</i> (talk)
+        [<a href="static/presentations/028_hull_ICN_seminar.pptx">pptx</a>]
+      </li>
+    </ul>
+  </li>
+
+  <li>
+	Centro de Radioastronom&iacutea y Astrof&iacutesica (CRyA) colloquium, UNAM, Morelia, Michoac&aacuten, Mexico (September 5, 2013)   
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 5, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/027_hull_CRyA_colloquium.pptx">pptx</a>]
       </li>
     </ul>
   </li>
