@@ -6,7 +6,7 @@ phead();
 
 <h2 style="text-align:center;">General Information</h2>
 
-<img src='static/L1157_slide_white_sm.png' style="float:right">
+<img src='static/SerEmb8.png' style="float:right">
 
 <p>
   The TADPOL survey uses the 1 mm dual-polarization system at CARMA to
@@ -40,7 +40,7 @@ phead();
   <img src='static/uwo_logo.png'>
   <img src='static/manitoba_logo.png'>
   <img src='static/herzberg_logo.png'>
-  <img src='static/sron_logo.png'>
+  <img src='static/sron_logo.jpg'>
 </div>
 
 <?php pfoot();?>
