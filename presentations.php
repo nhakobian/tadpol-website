@@ -91,19 +91,23 @@ phead();
   </li>	
 
   <li>
-    Ford Fellows Conference, Washington, DC
+    Ford Fellows Conference, Washington, DC (September 28, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 28, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/032_hull_Ford_talk.pptx">pptx</a>]        
       </li>
     </ul>
   </li>
 
   <li>
-    NRAO/University of Virginia, Charlottesville, VA
+    NRAO/University of Virginia colloquium, Charlottesville, VA (September 13, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for September 25, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/031_hull_NRAO_colloquium.pptx">pptx</a>]        
       </li>
     </ul>
   </li>
