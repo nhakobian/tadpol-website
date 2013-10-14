@@ -58,6 +58,15 @@ phead();
 	Princeton Wunch talk, Princeton, NJ
 	<ul>
       <li>
+        <b>Chat Hull</b>, (talk, scheduled for November 4, 2013)
+      </li>
+    </ul>
+  </li>	
+
+  <li>
+	Princeton Wunch talk, Princeton, NJ
+	<ul>
+      <li>
         <b>Chat Hull</b>, (talk, scheduled for October 23, 2013)
       </li>
     </ul>
@@ -89,6 +98,16 @@ phead();
       </li>
     </ul>
   </li>	
+
+  <li>
+    BU seminar, Boston, MA (October 4, 2013)
+    <ul>
+      <li>
+        <b>Ian Stephens</b>, <i>"Magnetic Fields and L1157"</i> (talk)
+        [<a href="static/presentations/033_stephens_L1157_BU_talk.pdf">pdf</a>]        
+      </li>
+    </ul>
+  </li>
 
   <li>
     Ford Fellows Conference, Washington, DC (September 28, 2013)
