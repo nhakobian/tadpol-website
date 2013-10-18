@@ -82,19 +82,23 @@ phead();
   </li>	
 
   <li>
-	Harvard RG lunch talk, Cambridge, MA
+	Harvard RG lunch talk, Cambridge, MA (October 18, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for October 18, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/035_hull_harvard_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
 
   <li>
-	Yale Stellar Tea talk, New Haven, CT
+	Yale Stellar Tea talk, New Haven, CT (October 14, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for October 14, 2013)
+        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
+        Protostellar Cores?"</i> (talk)
+        [<a href="static/presentations/034_hull_yale_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
