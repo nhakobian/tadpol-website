@@ -55,7 +55,7 @@ phead();
   </li>	
 
   <li>
-	Princeton Wunch talk, Princeton, NJ
+	University of Arizona seminar, Tucson, AZ
 	<ul>
       <li>
         <b>Chat Hull</b>, (talk, scheduled for November 4, 2013)
@@ -64,19 +64,23 @@ phead();
   </li>	
 
   <li>
-	Princeton Wunch talk, Princeton, NJ
+	Princeton Wunch talk, Princeton, NJ (October 23, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for October 23, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/037_hull_princeton_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
 
   <li>
-	American Museum of Natural History astrophysics seminar, New York, NY
+	American Museum of Natural History astrophysics seminar, New York, NY (October 22, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for October 22, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/036_hull_AMNH_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
@@ -85,8 +89,8 @@ phead();
 	Harvard RG lunch talk, Cambridge, MA (October 18, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
-        Protostellar Cores?"</i> (talk)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
         [<a href="static/presentations/035_hull_harvard_seminar.pptx">pptx</a>]        
       </li>
     </ul>
@@ -96,8 +100,8 @@ phead();
 	Yale Stellar Tea talk, New Haven, CT (October 14, 2013)
     <ul>
       <li>
-        <b>Chat Hull</b>, <i>"Are Magnetic Fields and Outflows Aligned in 
-        Protostellar Cores?"</i> (talk)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
         [<a href="static/presentations/034_hull_yale_seminar.pptx">pptx</a>]        
       </li>
     </ul>
