@@ -9,6 +9,12 @@ phead();
 
 <ul class="papers">
   <li>
+    Hull, C. L. H., Plambeck, R. L., et al., <i> TADPOL: A 1.3 mm Survey of Dust Polarization 
+    in Star-forming Cores and Regions,</i> 2013, ApJS, submitted
+	[<a href="http://adsabs.harvard.edu/abs/2013arXiv1310.6653H">ADS</a>]
+  </li>
+
+  <li>
     Stephens, I., Looney, L., Kwon, W., Hull, C. L. H., Plambeck, R., Crutcher, R. M., 
     Chapman, N., Novak, G., Davidson, J., Vaillancourt, J., Shinnaga, H., Matthews, T.,
     <i>The Magnetic Field Morphology of the Class 0 Protostar L1157,</i> 2013, ApJL, 769, L15
