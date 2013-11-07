@@ -46,19 +46,23 @@ phead();
   </li>	
 
   <li>
-	NRAO lunch talk, Socorro, NM
+	NRAO lunch talk, Socorro, NM (November 6, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 6, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/039_hull_NRAO_socorro_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
 
   <li>
-	University of Arizona seminar, Tucson, AZ
+	University of Arizona seminar, Tucson, AZ (November 4, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 4, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/038_hull_arizona_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
