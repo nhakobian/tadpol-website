@@ -37,10 +37,12 @@ phead();
   </li>	
 
   <li>
-	Caltech Astronomy Tea Talk, Pasadena, CA
+	Caltech Astronomy Tea Talk, Pasadena, CA (November 11, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 11, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/040_hull_caltech_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
