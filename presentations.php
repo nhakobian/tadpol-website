@@ -10,28 +10,33 @@ phead();
 <ul class="pres">
 
   <li>
-	University of Rochester seminar, Rochester, NY
+	University of Rochester colloquium, Rochester, NY (November 26, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 26, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/043_rochester_colloquium.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
 
   <li>
-	Rochester Institute of Technology seminar, Rochester, NY
+	Rochester Institute of Technology AST colloquium, Rochester, NY (November 22, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 22, 2013)
+        <b>Chat Hull</b>, <i>"Polarization Science with CARMA: Using the 1mm Dual-polarization Receiver System to Probe Small-scale Magnetic Fields in Protostellar Cores"</i> (talk)
+        [<a href="static/presentations/042_hull_RIT_AST_colloquium.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
 
   <li>
-	University of Toronto G2000 seminar, Toronto, ON, Canada
+	University of Toronto G2000 seminar, Toronto, ON, Canada (November 20, 2013)
 	<ul>
       <li>
-        <b>Chat Hull</b>, (talk, scheduled for November 20, 2013)
+        <b>Chat Hull</b>, <i>"From Clouds to Cores to Envelopes to Disks: A Multi-scale 
+		View of Magnetized Star Formation"</i> (talk)
+        [<a href="static/presentations/041_hull_toronto_G2000_seminar.pptx">pptx</a>]        
       </li>
     </ul>
   </li>	
